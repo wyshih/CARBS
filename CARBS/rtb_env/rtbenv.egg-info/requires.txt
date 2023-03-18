@@ -1,0 +1,7 @@
+gym
+numpy
+datetime
+keras
+keras-rl
+tensorflow_gpu
+pymongo
