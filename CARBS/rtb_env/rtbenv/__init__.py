@@ -1,13 +1,7 @@
 import logging
 from gym.envs.registration import register
 import datetime
-#logger = logging.getLogger(__name__)
 
-#register(
-#    id='rtbenv-v0',
-#    entry_point='rtbenv.envs:RTBEnv',
-#    kwargs={'budget': 1000, 'num_req': 1000, 'num_strategies': 3, 'dataset':'ipinyou'}
-#)
 a = 0 
 
 if a == 0:
