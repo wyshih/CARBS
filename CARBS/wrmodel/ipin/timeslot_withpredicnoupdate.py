@@ -1,8 +1,5 @@
 import pickle, os, sys, timeit, random, math
 from copy import deepcopy
-
-
-
 import itertools, gc
 from scipy.stats import norm
 import numpy as np
